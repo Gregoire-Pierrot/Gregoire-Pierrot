@@ -35,5 +35,5 @@ Welcome on my Github !
 ---
 
 <div class="test">
-  <div class="cube" style="border: 2px; width: 50px; height:50px">Ceci est un test</div>
+  <div class="cube" style="border: solid; width: 50px; height:50px">Ceci est un test</div>
 </div>
