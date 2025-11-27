@@ -35,13 +35,5 @@ Welcome on my Github !
 ---
 
 <div class="test">
-  <div class="cube">Ceci est un test</div>
+  <div class="cube" style="width: 50px; height:50px">Ceci est un test</div>
 </div>
-
-<style>
-  .cube {
-    width:50px;
-    height:50px;
-    
-  }
-</style>
