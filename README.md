@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I'm currently student at Avignon Université in the second year of the ILSEN master's degree (Software Ingeneering) and soon software developper.
 Welcome on my Github !
 
+---
+
 ### Technologies
 #### Technologies frequently uses
 
